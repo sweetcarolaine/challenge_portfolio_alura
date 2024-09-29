@@ -1,0 +1,36 @@
+.acade.academico {
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap; 
+    position: relative;
+}
+
+.academico_box {
+	/* background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); */
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+}
+
+.academico_cursos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.academico_img {
+    max-width: 80%;
+    height: 100px;
+}
+
+.academico_descricao {
+    flex: 2;
+	text-align: center;
+}
