@@ -28,3 +28,5 @@ Neste portfólio, você encontrará uma seleção de projetos que refletem as ha
 Se você gostaria de entrar em contato, sinta-se à vontade para me encontrar nas redes sociais:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaisbezerra/)
+
+<img src="img/badge-portfolio.png" alt="Badge Portfolio" width="200" />
